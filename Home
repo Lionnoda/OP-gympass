@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mijn Website</title>
+    <style>
+        /* Hier kun je stijlen toevoegen voor je website */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mijn Website</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Over Ons</a>
+        <a href="#">Diensten</a>
+        <a href="#">Contact</a>
+    </nav>
+    <section>
+        <h2>Welkom op onze website!</h2>
+        <p>Dit is een voorbeeld van een homepagina voor een website. U kunt deze naar wens aanpassen en uitbreiden.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Mijn Website. Alle rechten voorbehouden.</p>
+    </footer>
+</body>
+</html>
